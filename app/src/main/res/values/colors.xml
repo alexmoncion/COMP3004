@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#55514a</color>
+    <color name="colorPrimaryDark">#393732</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="chessBoard_Black">#c39d7f</color>
+    <color name="chessBoard_White">#e9d9be</color>
+    <color name="highlight_outline">#9fa6bc</color>
+    <color name="highlight_filter">#5503FC56</color>
+    <color name="pieceColor_Black">#0f0f0f</color>
+    <color name="pieceColor_White">#f2f2f2</color>
+    <color name="pieceOutline_Black">#a48d79</color>
+    <color name="pieceOutline_White">#927863</color>
+    <color name="appBG">#c4c1bb</color>
+</resources>

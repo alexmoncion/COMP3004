@@ -1,0 +1,78 @@
+Dev Logs
+
+We meet on Mondays and fill the dev log for the PREVIOUS week
+
+=====Week 00 starting 2020-01-13=====
+Alex    - D1: Features
+Carter  - D1: Powerpoint
+John    - D0, D1: Intro, D1: Merge and submit document
+Josh    - D1: Mockup
+
+=====Week 01 starting 2020-01-20=====
+Alex    -  Project planning
+Carter  -  Project planning
+John    -  Project planning
+Josh    -  Project planning
+
+=====Week 02 starting 2020-01-27=====
+Alex    - Envirorment setup
+Carter  - Envirorment setup
+John    - Envirorment setup, skeleton of application, application initialization 
+Josh    - Envirorment setup
+
+=====Week 03 starting 2020-02-03=====
+Alex    -  
+Carter  - 
+John    - Built a main console to display board states. Code refactoring for classes.
+Josh    - UI setup with some drag and drop
+
+=====Week 04 starting 2020-02-10=====
+Alex    - Preset scenarios 
+Carter  - UI Scoreboard/timer
+John    - Project coordination
+Josh    - Some work on font and loading game state
+
+=====Week 05 starting 2020-02-17=====
+Alex    - Chess logic
+Carter  - UI Scoreboard/timer
+John    - Project coordination
+Josh    - Some work on font and loading game state
+
+=====Week 06 starting 2020-02-24=====
+Alex    - Reading week
+Carter  - Reading week
+John    - Reading week
+Josh    - Reading week
+
+=====Week 07 starting 2020-03-02=====
+Alex    - Preparing for presentation, chess logic
+Carter  - Preparing for presentation, Timer
+John    - Preparing for presentation, chess engine, user interface
+Josh    - Preparing for presentation, User interation with application
+
+=====Week 08 starting 2020-03-09=====
+Alex    - Preparing diagrams for d3 Architecture section
+Carter  - Preparing diagrams for d3 Design section
+John    - Preparing content for d3 Architecture section
+Josh    - Preparing content for d3 Design section, code refactoring
+
+=====Week 09 starting 2020-03-16=====
+Alex    - Preparing for d3, study app architecture/design, compent diageams
+Carter  - Preparing for d3, study app architecture/design, class diagram
+John    - Preparing for d3, study app architecture/design, deisgn slides
+Josh    - Preparing for d3, study app architecture/design, architecture slides
+
+=====Week 10 starting 2020-03-30=====
+Alex    - Preparing for d4, scenario board randomization
+Carter  - Preparing for d4, scoreboard tracking
+John    - Preparing for d4, code refactoring, merging
+Josh    - Preparing for d4, scenario menu UI
+
+=====Week 11 starting 2020-04-06=====
+Alex    - Enhancments to AI player
+Carter  - Scoreboard tracking
+John    - Preparing Demo Video
+Josh    - Final touches to UI
+
+
+
